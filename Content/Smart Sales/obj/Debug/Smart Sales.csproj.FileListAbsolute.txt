@@ -1,0 +1,25 @@
+C:\Users\new\Desktop\projects.cs\Smart Sales\Content\Smart Sales\bin\Debug\Smart Sales.exe.config
+C:\Users\new\Desktop\projects.cs\Smart Sales\Content\Smart Sales\bin\Debug\Smart Sales.exe
+C:\Users\new\Desktop\projects.cs\Smart Sales\Content\Smart Sales\bin\Debug\Smart Sales.pdb
+C:\Users\new\Desktop\projects.cs\Smart Sales\Content\Smart Sales\obj\Debug\Smart Sales.csprojAssemblyReference.cache
+C:\Users\new\Desktop\projects.cs\Smart Sales\Content\Smart Sales\obj\Debug\Smart_Sales.Login.resources
+C:\Users\new\Desktop\projects.cs\Smart Sales\Content\Smart Sales\obj\Debug\Smart_Sales.Properties.Resources.resources
+C:\Users\new\Desktop\projects.cs\Smart Sales\Content\Smart Sales\obj\Debug\Smart Sales.csproj.GenerateResource.cache
+C:\Users\new\Desktop\projects.cs\Smart Sales\Content\Smart Sales\obj\Debug\Smart Sales.csproj.CoreCompileInputs.cache
+C:\Users\new\Desktop\projects.cs\Smart Sales\Content\Smart Sales\obj\Debug\Smart Sales.exe
+C:\Users\new\Desktop\projects.cs\Smart Sales\Content\Smart Sales\obj\Debug\Smart Sales.pdb
+C:\Users\new\Desktop\projects.cs\Smart Sales\Content\Smart Sales\bin\Debug\Emgu.CV.Platform.NetFramework.dll
+C:\Users\new\Desktop\projects.cs\Smart Sales\Content\Smart Sales\bin\Debug\Emgu.CV.Platform.NetStandard.dll
+C:\Users\new\Desktop\projects.cs\Smart Sales\Content\Smart Sales\bin\Debug\MetroFramework.Design.dll
+C:\Users\new\Desktop\projects.cs\Smart Sales\Content\Smart Sales\bin\Debug\MetroFramework.dll
+C:\Users\new\Desktop\projects.cs\Smart Sales\Content\Smart Sales\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\new\Desktop\projects.cs\Smart Sales\Content\Smart Sales\bin\Debug\NuGet.Frameworks.dll
+C:\Users\new\Desktop\projects.cs\Smart Sales\Content\Smart Sales\bin\Debug\Emgu.CV.Platform.NetFramework.xml
+C:\Users\new\Desktop\projects.cs\Smart Sales\Content\Smart Sales\bin\Debug\Emgu.CV.Platform.NetStandard.xml
+C:\Users\new\Desktop\projects.cs\Smart Sales\Content\Smart Sales\bin\Debug\NuGet.Frameworks.xml
+C:\Users\new\Desktop\projects.cs\Smart Sales\Content\Smart Sales\obj\Debug\Smart Sales.csproj.CopyComplete
+C:\Users\new\Desktop\projects.cs\Smart Sales\Content\Smart Sales\bin\Debug\FunScript.TypeScript.Binding.colors.dll
+C:\Users\new\Desktop\projects.cs\Smart Sales\Content\Smart Sales\bin\Debug\FunScript.TypeScript.Binding.lib.dll
+C:\Users\new\Desktop\projects.cs\Smart Sales\Content\Smart Sales\bin\Debug\MaterialDesignColors.dll
+C:\Users\new\Desktop\projects.cs\Smart Sales\Content\Smart Sales\bin\Debug\MaterialDesignColors.pdb
+C:\Users\new\Desktop\projects.cs\Smart Sales\Content\Smart Sales\obj\Debug\Smart_Sales.HomeForm.resources
